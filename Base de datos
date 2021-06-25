@@ -1,0 +1,9 @@
+BASE DE DATOS EMPLEADOS							
+ID empleado	Apellido	Nombre	  Departamento	  Cargo	          Salario	        Fecha comienzo	Fecha nacimiento
+    1	      García	  Jeronimo	Administración	Administrativo	3.200.000      	05-04-1982	    28-09-1951
+    2	      Giménez	  Estefania	Administración	Docente	        3.200.000	      25-03-1992	17-01-1964
+3	Pérez	Guillermo	Administración	Docente	4.500.000,00 €	06-03-1985	26-06-1963
+4	Soriano	Eliana	Administración	Docente	3.200.000,00 €	14-02-1989	17-05-1964
+5	Gutierrez	Jose	Administración	Docente	3.200.000,00 €	06-12-1987	10-10-1963
+6	Reina	Marcela	Administración	Aux. Administrativo	1.500.000,00 €	07-07-1988	31-05-1960
+7	Ramirez	Daniela	Administración	Docente	3.200.000,00 €	06-06-1988	14-10-1963
